@@ -1,5 +1,6 @@
-rEPORT zabapgit_test_ssl.
+REPORT zabapgit_test_ssl.
 
+"test bozcetin
 * See https://github.com/abapGit/abapGit/
 
 PARAMETERS: p_url1 TYPE swc_value DEFAULT 'https://github.com',
